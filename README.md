@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=00CED1&center=true&vCenter=true&width=1580&lines=PAYDAY+2+HACK+2026;GOD+MODE+•+INFINITE+AMMO;DOMINATE+THE+HEIST" alt="Payday 2 Hack 2026" />
-</div>
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/11443837-2ef8-4307-809f-c6516d187d6e" />
 
 <br/>
 
